@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0292-nim-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
