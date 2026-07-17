@@ -1,24 +1,21 @@
 class Solution {
 public:
+int reverse(int n) {
+        int re=0;
+        while(n!=0){
+            int dig=n%10;
+            if(re>INT_MAX/10 || re<INT_MIN/10){
+                return 0;
+            }
+            re= re*10+dig;
+            n=n/10;
+        }
+        return re;
+}    
     bool isPalindrome(int x) {
-        if(x < 0) return false;
-
-        vector<char> digits;
-
-        if(x == 0) digits.push_back('0');
-
-        while(x) {
-            digits.push_back((x % 10) + '0');
-            x /= 10;
-        }
-
-        int n = digits.size();
-
-        for(int i = 0; i < n / 2; i++) {
-            if(digits[i] != digits[n - 1 - i])
-                return false;
-        }
-
-        return true;
+        if(x<0)return false;
+        int re=reverse(x);
+        return x==re;
+        
     }
 };
