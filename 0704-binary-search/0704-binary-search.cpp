@@ -1,19 +1,18 @@
 class Solution {
 public:
-    int search(vector<int>& nums, int target) {
-        int st=0,end=nums.size()-1;
-        while(st<=end){
-            int mid=(end+st)/2;
-            if(target>nums[mid]){
-                st=mid+1;
-
-            }else if(target<nums[mid]){
-                end=mid-1;
+    int binsearch(vector<int>& arr,int tar,int st,int end){
+        if(st<=end){
+            int mid=st+(end-st)/2;
+            if(arr[mid]==tar) return mid;
+            else if(arr[mid]<=tar){
+                return binsearch(arr,tar,mid+1,end);
             }else{
-                return mid;
+                return binsearch(arr,tar,st,mid-1);
             }
         }
         return -1;
-
+    }
+    int search(vector<int>& nums, int target) {
+        return binsearch(nums,target,0,nums.size()-1);
     }
 };
