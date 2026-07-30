@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
