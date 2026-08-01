@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Brainteaser
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
