@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -223,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
