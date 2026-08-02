@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Recursion
 |  |
 | ------- |
