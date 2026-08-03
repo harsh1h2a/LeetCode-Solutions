@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [2235-add-two-integers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
