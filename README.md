@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3895-count-digit-appearances](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 ## Brainteaser
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3701-compute-alternating-sum](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3895-count-digit-appearances](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
