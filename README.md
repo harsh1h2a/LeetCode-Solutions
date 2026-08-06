@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
