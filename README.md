@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2235-add-two-integers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
