@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2295-replace-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2295-replace-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2596-check-knight-tour-configuration](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3701-compute-alternating-sum](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2295-replace-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
