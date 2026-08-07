@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
