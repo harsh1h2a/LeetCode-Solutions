@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
