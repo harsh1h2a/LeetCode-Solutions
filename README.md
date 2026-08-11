@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2295-replace-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
