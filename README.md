@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
 |  |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
