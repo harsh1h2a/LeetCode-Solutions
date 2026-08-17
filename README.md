@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0204-count-primes](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
+| [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -318,4 +320,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0148-sort-list) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
