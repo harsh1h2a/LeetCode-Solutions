@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1603-design-parking-system](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2295-replace-elements-in-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2295-replace-elements-in-an-array) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1603-design-parking-system](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0164-maximum-gap) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
