@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2716-minimize-string-length](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3941-password-strength](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-minimize-string-length](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2716-minimize-string-length) |
 | [2965-find-missing-and-repeated-values](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3731-find-missing-elements](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3941-password-strength](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3941-password-strength) |
 ## Sliding Window
 |  |
 | ------- |
