@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -377,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
