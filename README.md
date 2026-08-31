@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
@@ -389,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0503-next-greater-element-ii) |
