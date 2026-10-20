@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/harsh1h2a/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Dynamic Programming
